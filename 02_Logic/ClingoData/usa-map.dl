@@ -1,0 +1,51 @@
+adjacent(alabama,mississippi). adjacent(alabama,tennessee). adjacent(alabama,georgia). adjacent(alabama,florida).      
+adjacent(arkansas,missouri). adjacent(arkansas,tennessee). adjacent(arkansas,mississippi). adjacent(arkansas,louisiana). adjacent(arkansas,texas). adjacent(arkansas,oklahoma).    
+adjacent(arizona,california). adjacent(arizona,nevada). adjacent(arizona,utah). adjacent(arizona,colorado). adjacent(arizona,newMexico).     
+adjacent(california,oregon). adjacent(california,nevada). adjacent(california,arizona).       
+adjacent(colorado,wyoming). adjacent(colorado,nebraska). adjacent(colorado,kansas). adjacent(colorado,oklahoma). adjacent(colorado,newMexico). adjacent(colorado,arizona). adjacent(colorado,utah).   
+adjacent(connecticut,newYork). adjacent(connecticut,massachusetts). adjacent(connecticut,rhodeIsland).       
+adjacent(districtOfColumbia,maryland). adjacent(districtOfColumbia,virginia).        
+adjacent(delaware,maryland). adjacent(delaware,pennsylvania). adjacent(delaware,newJersey).       
+adjacent(florida,alabama). adjacent(florida,georgia).        
+adjacent(georgia,florida). adjacent(georgia,alabama). adjacent(georgia,tennessee). adjacent(georgia,northCarolina). adjacent(georgia,southCarolina).     
+adjacent(iowa,minnesota). adjacent(iowa,wisconsin). adjacent(iowa,illinois). adjacent(iowa,missouri). adjacent(iowa,nebraska). adjacent(iowa,southDakota).    
+adjacent(idaho,montana). adjacent(idaho,wyoming). adjacent(idaho,utah). adjacent(idaho,nevada). adjacent(idaho,oregon). adjacent(idaho,washington).    
+adjacent(illinois,indiana). adjacent(illinois,kentucky). adjacent(illinois,missouri). adjacent(illinois,iowa). adjacent(illinois,wisconsin).     
+adjacent(indiana,michigan). adjacent(indiana,ohio). adjacent(indiana,kentucky). adjacent(indiana,illinois).      
+adjacent(kansas,nebraska). adjacent(kansas,missouri). adjacent(kansas,oklahoma). adjacent(kansas,colorado).      
+adjacent(kentucky,indiana). adjacent(kentucky,ohio). adjacent(kentucky,westVirginia). adjacent(kentucky,virginia). adjacent(kentucky,tennessee). adjacent(kentucky,missouri). adjacent(kentucky,illinois).   
+adjacent(louisiana,texas). adjacent(louisiana,arkansas). adjacent(louisiana,mississippi).       
+adjacent(massachusetts,rhodeIsland). adjacent(massachusetts,connecticut). adjacent(massachusetts,newYork). adjacent(massachusetts,newHampshire). adjacent(massachusetts,vermont).     
+adjacent(maryland,virginia). adjacent(maryland,westVirginia). adjacent(maryland,pennsylvania). adjacent(maryland,districtOfColumbia). adjacent(maryland,delaware).     
+adjacent(maine,newHampshire).         
+adjacent(michigan,wisconsin). adjacent(michigan,indiana). adjacent(michigan,ohio).       
+adjacent(minnesota,wisconsin). adjacent(minnesota,iowa). adjacent(minnesota,southDakota). adjacent(minnesota,northDakota).      
+adjacent(missouri,iowa). adjacent(missouri,illinois). adjacent(missouri,kentucky). adjacent(missouri,tennessee). adjacent(missouri,arkansas). adjacent(missouri,oklahoma). adjacent(missouri,kansas). adjacent(missouri,nebraska).  
+adjacent(mississippi,louisiana). adjacent(mississippi,arkansas). adjacent(mississippi,tennessee). adjacent(mississippi,alabama).      
+adjacent(montana,northDakota). adjacent(montana,southDakota). adjacent(montana,wyoming). adjacent(montana,idaho).      
+adjacent(northCarolina,virginia). adjacent(northCarolina,tennessee). adjacent(northCarolina,georgia). adjacent(northCarolina,southCarolina).      
+adjacent(northDakota,minnesota). adjacent(northDakota,southDakota). adjacent(northDakota,montana).       
+adjacent(nebraska,southDakota). adjacent(nebraska,iowa). adjacent(nebraska,missouri). adjacent(nebraska,kansas). adjacent(nebraska,colorado). adjacent(nebraska,wyoming).    
+adjacent(newHampshire,vermont). adjacent(newHampshire,maine). adjacent(newHampshire,massachusetts).       
+adjacent(newJersey,delaware). adjacent(newJersey,pennsylvania). adjacent(newJersey,newYork).       
+adjacent(newMexico,arizona). adjacent(newMexico,utah). adjacent(newMexico,colorado). adjacent(newMexico,oklahoma). adjacent(newMexico,texas).     
+adjacent(nevada,idaho). adjacent(nevada,utah). adjacent(nevada,arizona). adjacent(nevada,california). adjacent(nevada,oregon).     
+adjacent(newYork,newJersey). adjacent(newYork,pennsylvania). adjacent(newYork,vermont). adjacent(newYork,massachusetts). adjacent(newYork,connecticut).     
+adjacent(ohio,pennsylvania). adjacent(ohio,westVirginia). adjacent(ohio,kentucky). adjacent(ohio,indiana). adjacent(ohio,michigan).     
+adjacent(oklahoma,kansas). adjacent(oklahoma,missouri). adjacent(oklahoma,arkansas). adjacent(oklahoma,texas). adjacent(oklahoma,newMexico). adjacent(oklahoma,colorado).    
+adjacent(oregon,california). adjacent(oregon,nevada). adjacent(oregon,idaho). adjacent(oregon,washington).      
+adjacent(pennsylvania,newYork). adjacent(pennsylvania,newJersey). adjacent(pennsylvania,delaware). adjacent(pennsylvania,maryland). adjacent(pennsylvania,westVirginia). adjacent(pennsylvania,ohio).    
+adjacent(rhodeIsland,connecticut). adjacent(rhodeIsland,massachusetts).        
+adjacent(southCarolina,georgia). adjacent(southCarolina,northCarolina).        
+adjacent(southDakota,northDakota). adjacent(southDakota,minnesota). adjacent(southDakota,iowa). adjacent(southDakota,nebraska). adjacent(southDakota,wyoming). adjacent(southDakota,montana).    
+adjacent(tennessee,kentucky). adjacent(tennessee,virginia). adjacent(tennessee,northCarolina). adjacent(tennessee,georgia). adjacent(tennessee,alabama). adjacent(tennessee,mississippi). adjacent(tennessee,arkansas). adjacent(tennessee,missouri).  
+adjacent(texas,newMexico). adjacent(texas,oklahoma). adjacent(texas,arkansas). adjacent(texas,louisiana).      
+adjacent(utah,idaho). adjacent(utah,wyoming). adjacent(utah,colorado). adjacent(utah,newMexico). adjacent(utah,arizona). adjacent(utah,nevada).    
+adjacent(virginia,northCarolina). adjacent(virginia,tennessee). adjacent(virginia,kentucky). adjacent(virginia,westVirginia). adjacent(virginia,maryland). adjacent(virginia,districtOfColumbia).    
+adjacent(vermont,newYork). adjacent(vermont,newHampshire). adjacent(vermont,massachusetts).       
+adjacent(washington,idaho). adjacent(washington,oregon).        
+adjacent(wisconsin,michigan). adjacent(wisconsin,minnesota). adjacent(wisconsin,iowa). adjacent(wisconsin,illinois).      
+adjacent(westVirginia,ohio). adjacent(westVirginia,pennsylvania). adjacent(westVirginia,maryland). adjacent(westVirginia,virginia). adjacent(westVirginia,kentucky).     
+adjacent(wyoming,montana). adjacent(wyoming,southDakota). adjacent(wyoming,nebraska). adjacent(wyoming,colorado). adjacent(wyoming,utah). adjacent(wyoming,idaho).  
+
+state(alabama). state(arizona). state(arkansas). state(california). state(colorado). state(connecticut). state(delaware). state(districtOfColumbia). state(florida). state(georgia). state(idaho). state(illinois). state(indiana). state(iowa). state(kansas). state(kentucky). state(louisiana). state(maine). state(maryland). state(massachusetts). state(michigan). state(minnesota). state(mississippi). state(missouri). state(montana). state(nebraska). state(nevada). state(newHampshire). state(newJersey). state(newMexico). state(newYork). state(northCarolina). state(northDakota). state(ohio). state(oklahoma). state(oregon). state(pennsylvania). state(rhodeIsland). state(southCarolina). state(southDakota). state(tennessee). state(texas). state(utah). state(vermont). state(virginia). state(washington). state(westVirginia). state(wisconsin). state(wyoming). state(alaska). state(hawaii).

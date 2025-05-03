@@ -1,0 +1,56 @@
+eu("France"). eu("Spain"). eu("Sweden"). eu("Germany"). eu("Finland"). eu("Poland"). eu("Italy"). eu("Romania"). eu("Greece"). eu("Bulgaria"). eu("Hungary"). eu("Portugal"). eu("Austria"). eu("CzechRepublic"). eu("Ireland"). eu("Lithuania"). eu("Latvia"). eu("Croatia"). eu("Slovakia"). eu("Estonia"). eu("Denmark"). eu("Netherlands"). eu("Belgium"). eu("Slovenia"). eu("Cyprus"). eu("Luxembourg"). eu("Malta").
+
+candidate("Serbia"). candidate("Turkey"). candidate("Albania"). candidate("NorthMacedonia"). candidate("Montenegro").
+
+schengen("France"). schengen("Spain"). schengen("Sweden"). schengen("Norway"). schengen("Germany"). schengen("Finland"). schengen("Poland"). schengen("Italy"). schengen("Greece"). schengen("Bulgaria"). schengen("Iceland"). schengen("Hungary"). schengen("Portugal"). schengen("Austria"). schengen("CzechRepublic"). schengen("Lithuania"). schengen("Latvia"). schengen("Slovakia"). schengen("Estonia"). schengen("Denmark"). schengen("Switzerland"). schengen("Netherlands"). schengen("Belgium"). schengen("Slovenia"). schengen("Luxembourg"). schengen("Malta"). schengen("Liechtenstein").
+
+euro("France"). euro("Spain"). euro("Italy"). euro("Greece"). euro("Portugal"). euro("Austria"). euro("Ireland"). euro("Lithuania"). euro("Latvia"). euro("Slovakia"). euro("Estonia"). euro("Netherlands"). euro("Belgium"). euro("Slovenia"). euro("Montenegro"). euro("Kosovo"). euro("Cyprus"). euro("Luxembourg"). euro("Andorra"). euro("Malta"). euro("SanMarino"). euro("Monaco"). euro("VaticanCity").
+
+adjacent("Russia","Estonia"). adjacent("Russia","Latvia"). adjacent("Russia","Finland"). adjacent("Russia","Belarus"). adjacent("Russia","Ukraine").
+adjacent("Ukraine","Belarus"). adjacent("Ukraine","Russia"). adjacent("Ukraine","Poland"). adjacent("Ukraine","Slovakia"). adjacent("Ukraine","Hungary"). adjacent("Ukraine","Moldavia"). adjacent("Ukraine","Romania"). 
+adjacent("France","Spain"). adjacent("France","Andorra"). adjacent("France","Belgium"). adjacent("France","Luxembourg"). adjacent("France","Italy"). adjacent("France","Switzerland").  
+adjacent("Spain","Portugal"). adjacent("Spain","France"). adjacent("Spain","Andorra"). 
+adjacent("Sweden","Norway"). adjacent("Sweden","Finland").  
+adjacent("Norway","Sweden").  
+adjacent("Germany","Denmark"). adjacent("Germany","Netherlands"). adjacent("Germany","Belgium"). adjacent("Germany","Luxembourg"). adjacent("Germany","Poland"). adjacent("Germany","CzechRepublic"). adjacent("Germany","Austria"). adjacent("Germany","Switzerland"). 
+adjacent("Finland","Russia"). adjacent("Finland","Sweden").  
+adjacent("Poland","Germany"). adjacent("Poland","Russia"). adjacent("Poland","Belarus"). adjacent("Poland","Lithuania"). adjacent("Poland","Ukraine"). adjacent("Poland","Slovakia"). adjacent("Poland","CzechRepublic"). 
+adjacent("Italy","Slovenia"). adjacent("Italy","Austria"). adjacent("Italy","Switzerland"). adjacent("Italy","France"). adjacent("Italy","VaticanCity"). adjacent("Italy","SanMarino").  
+adjacent("UnitedKingdom","Ireland").  
+adjacent("Romania","Moldavia"). adjacent("Romania","Ukraine"). adjacent("Romania","Hungary"). adjacent("Romania","Serbia"). adjacent("Romania","Bulgaria").
+adjacent("Belarus","Russia"). adjacent("Belarus","Lithuania"). adjacent("Belarus","Latvia"). adjacent("Belarus","Poland"). adjacent("Belarus","Ukraine").
+adjacent("Kazakhstan","Russia").  
+adjacent("Greece","Turkey"). adjacent("Greece","Bulgaria"). adjacent("Greece","NorthMacedonia"). adjacent("Greece","Albania"). 
+adjacent("Bulgaria","Romania"). adjacent("Bulgaria","Serbia"). adjacent("Bulgaria","NorthMacedonia"). adjacent("Bulgaria","Greece"). 
+adjacent("Hungary","Slovakia"). adjacent("Hungary","Austria"). adjacent("Hungary","Slovenia"). adjacent("Hungary","Croatia"). adjacent("Hungary","Serbia"). adjacent("Hungary","Romania"). adjacent("Hungary","Ukraine"). 
+adjacent("Portugal","Spain").  
+adjacent("Austria","CzechRepublic"). adjacent("Austria","Slovakia"). adjacent("Austria","Hungary"). adjacent("Austria","Italy"). adjacent("Austria","Germany"). adjacent("Austria","Liechtenstein"). adjacent("Austria","Germany").  adjacent("Austria","Switzerland"). adjacent("Austria","Slovenia").
+adjacent("CzechRepublic","Poland"). adjacent("CzechRepublic","Germany"). adjacent("CzechRepublic","Austria"). adjacent("CzechRepublic","Slovakia"). 
+adjacent("Serbia","BosniaandHerzegovina"). adjacent("Serbia","Romania"). adjacent("Serbia","Bulgaria"). adjacent("Serbia","NorthMacedonia"). adjacent("Serbia","Hungary"). adjacent("Serbia","Croatia"). adjacent("Serbia","Montenegro"). adjacent("Serbia","Albania"). adjacent("Serbia","Kosovo").
+adjacent("Ireland","UnitedKingdom").  
+adjacent("Lithuania","Russia"). adjacent("Lithuania","Latvia"). adjacent("Lithuania","Belarus"). adjacent("Lithuania","Poland"). 
+adjacent("Latvia","Estonia"). adjacent("Latvia","Lithuania"). adjacent("Latvia","Russia"). adjacent("Latvia","Belarus"). 
+adjacent("Croatia","Slovenia"). adjacent("Croatia","BosniaandHerzegovina"). adjacent("Croatia","Serbia"). adjacent("Croatia","Hungary"). 
+adjacent("BosniaandHerzegovina","Croacia"). adjacent("BosniaandHerzegovina","Serbia"). adjacent("BosniaandHerzegovina","Montenegro"). 
+adjacent("Slovakia","CzechRepublic"). adjacent("Slovakia","Poland"). adjacent("Slovakia","Austria"). adjacent("Slovakia","Hungary"). adjacent("Slovakia","Romania"). adjacent("Slovakia","Ukraine").  
+adjacent("Estonia","Russia"). adjacent("Estonia","Latvia").  
+adjacent("Denmark","Germany").  
+adjacent("Switzerland","France"). adjacent("Switzerland","Liechtenstein"). adjacent("Switzerland","Austria"). adjacent("Switzerland","Germany"). adjacent("Switzerland","Italy").
+adjacent("Netherlands","Belgium"). adjacent("Netherlands","Germany").  
+adjacent("Moldova","Ukraine"). adjacent("Moldova","Romania").  
+adjacent("Belgium","Luxembourg"). adjacent("Belgium","Germany"). adjacent("Belgium","Netherlands"). 
+adjacent("Armenia","Georgia"). adjacent("Armenia","Turkey").  
+adjacent("Albania","Montenegro"). adjacent("Albania","NorthMacedonia"). adjacent("Albania","Azerbaijan"). adjacent("Albania","Turkey"). adjacent("Albania","Kosovo").
+adjacent("NorthMacedonia","Albania"). adjacent("NorthMacedonia","Greece"). adjacent("NorthMacedonia","Serbia"). adjacent("NorthMacedonia","Bulgaria"). adjacent("NorthMacedonia","Kosovo").
+adjacent("Turkey","Bulgaria"). adjacent("Turkey","Greece"). adjacent("Turkey","Armenia"). adjacent("Turkey","Georgia"). 
+adjacent("Slovenia","Croatia"). adjacent("Slovenia","Austria"). adjacent("Slovenia","Italy"). adjacent("Slovenia","Hungary"). 
+adjacent("Montenegro","BosniaandHerzegovina"). adjacent("Montenegro","Serbia"). adjacent("Montenegro","Albania"). adjacent("Montenegro","Kosovo"). 
+adjacent("Kosovo","Montenegro"). adjacent("Kosovo","Albania"). adjacent("Kosovo","Serbia"). adjacent("Kosovo","NorthMacedonia"). 
+adjacent("Cyprus","Turkey").  
+adjacent("Azerbaijan","Georgia"). adjacent("Azerbaijan","Armenia"). adjacent("Azerbaijan","Russia"). 
+adjacent("Luxembourg","Belgium"). adjacent("Luxembourg","France"). adjacent("Luxembourg","Germany"). 
+adjacent("Georgia","Russia"). adjacent("Georgia","Armenia"). adjacent("Georgia","Azerbaijan"). adjacent("Georgia","Turkey"). 
+adjacent("Andorra","Spain"). adjacent("Andorra","France").  
+adjacent("Liechtenstein","Switzerland"). adjacent("Liechtenstein","Austria").  
+adjacent("SanMarino","Italy").  
+adjacent("VaticanCity","Italy").
